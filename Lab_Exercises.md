@@ -109,6 +109,9 @@ vlrzxjbvlrpxtvlrzlknrboba
 ```
 Once your script is working submit the answer, the ROT number and your script in the write up.
 
+### Puzzler - Shatter SHA-1
+Use shattered from the README to create 2 colliding documents.
+
 ### What to Submit
 Please submit listed items in one document with your name and title:
 * Exercise 1 - All solved messages for each cipher
