@@ -43,6 +43,5 @@ Passwords in plain text
 This topic can be explored further by looking into additional encryption algorithms and cryptoanalysis attacks such as RSA and the hastad broadcast attack. Implementations like these often find their way into Security CTF challenges so particpation in CTFs will improve you understanding in this topic. Another good resource is https://cryptopals.com/ which his a series of challanges that will require you to master cryptography the overarching principle of encryption.
 
 ## Additional Resources
-* [Lesson Video (10Min)](http://)
 * [Cryptopals](https://cryptopals.com/)
 * [Serious Cryptography Book](https://nostarch.com/seriouscrypto)
